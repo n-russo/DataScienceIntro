@@ -1,0 +1,391 @@
+location_name,year_id,sex,age_group,mean_drinks_per_day
+Cambodia,2016,Female,age-standardised,1.59
+Canada,2016,Female,age-standardised,2.45
+United States,2016,Female,age-standardised,1.78
+Antigua and Barbuda,2016,Female,age-standardised,0.62
+The Bahamas,2016,Female,age-standardised,1.01
+Barbados,2016,Female,age-standardised,1.14
+Belize,2016,Female,age-standardised,1.26
+Cuba,2016,Female,age-standardised,1.03
+Indonesia,2016,Female,age-standardised,0.2
+Dominica,2016,Female,age-standardised,1.31
+Dominican Republic,2016,Female,age-standardised,1.19
+Grenada,2016,Female,age-standardised,1.19
+Guyana,2016,Female,age-standardised,0.36
+Haiti,2016,Female,age-standardised,0.79
+Jamaica,2016,Female,age-standardised,1.01
+Saint Lucia,2016,Female,age-standardised,1.27
+Saint Vincent and the Grenadines,2016,Female,age-standardised,1
+Suriname,2016,Female,age-standardised,1.39
+Trinidad and Tobago,2016,Female,age-standardised,0.73
+Laos,2016,Female,age-standardised,0.8
+Bolivia,2016,Female,age-standardised,0.9
+Ecuador,2016,Female,age-standardised,1.14
+Peru,2016,Female,age-standardised,1.46
+Colombia,2016,Female,age-standardised,1.08
+Costa Rica,2016,Female,age-standardised,1.1
+El Salvador,2016,Female,age-standardised,0.89
+Guatemala,2016,Female,age-standardised,1.29
+Honduras,2016,Female,age-standardised,0.3
+Malaysia,2016,Female,age-standardised,0.37
+Mexico,2016,Female,age-standardised,0.45
+Nicaragua,2016,Female,age-standardised,0.52
+Panama,2016,Female,age-standardised,0.93
+Venezuela,2016,Female,age-standardised,1.11
+Brazil,2016,Female,age-standardised,1.43
+Paraguay,2016,Female,age-standardised,0.95
+Algeria,2016,Female,age-standardised,0.28
+Maldives,2016,Female,age-standardised,0.24
+Bahrain,2016,Female,age-standardised,0.53
+Egypt,2016,Female,age-standardised,0.26
+Iran,2016,Female,age-standardised,0
+Iraq,2016,Female,age-standardised,0.29
+Jordan,2016,Female,age-standardised,0.18
+Kuwait,2016,Female,age-standardised,0.01
+Lebanon,2016,Female,age-standardised,0.28
+Libya,2016,Female,age-standardised,0.02
+Morocco,2016,Female,age-standardised,0.11
+Palestine,2016,Female,age-standardised,0.06
+Myanmar,2016,Female,age-standardised,0.06
+Oman,2016,Female,age-standardised,0.26
+Qatar,2016,Female,age-standardised,0.64
+Saudi Arabia,2016,Female,age-standardised,0.08
+Syria,2016,Female,age-standardised,0.05
+Tunisia,2016,Female,age-standardised,0.04
+Turkey,2016,Female,age-standardised,0.65
+United Arab Emirates,2016,Female,age-standardised,2.03
+Yemen,2016,Female,age-standardised,0.06
+Philippines,2016,Female,age-standardised,0.46
+Afghanistan,2016,Female,age-standardised,0.1
+Bangladesh,2016,Female,age-standardised,0.06
+Bhutan,2016,Female,age-standardised,0.25
+India,2016,Female,age-standardised,0.19
+Nepal,2016,Female,age-standardised,0.18
+Pakistan,2016,Female,age-standardised,0.03
+Angola,2016,Female,age-standardised,1.21
+Central African Republic,2016,Female,age-standardised,1.24
+Sri Lanka,2016,Female,age-standardised,0.4
+Congo,2016,Female,age-standardised,1.28
+Democratic Republic of the Congo,2016,Female,age-standardised,0.87
+Equatorial Guinea,2016,Female,age-standardised,2.08
+Gabon,2016,Female,age-standardised,1.61
+Burundi,2016,Female,age-standardised,3.1
+Comoros,2016,Female,age-standardised,0.21
+Djibouti,2016,Female,age-standardised,0.32
+Eritrea,2016,Female,age-standardised,0.5
+Ethiopia,2016,Female,age-standardised,0.58
+Thailand,2016,Female,age-standardised,0.91
+Kenya,2016,Female,age-standardised,0.75
+Madagascar,2016,Female,age-standardised,0.62
+Malawi,2016,Female,age-standardised,0.26
+Mauritius,2016,Female,age-standardised,0.29
+Mozambique,2016,Female,age-standardised,0.8
+Rwanda,2016,Female,age-standardised,2.07
+Seychelles,2016,Female,age-standardised,0.66
+Somalia,2016,Female,age-standardised,0.13
+Tanzania,2016,Female,age-standardised,1.72
+Timor-Leste,2016,Female,age-standardised,0.05
+Uganda,2016,Female,age-standardised,1.81
+Zambia,2016,Female,age-standardised,0.63
+Botswana,2016,Female,age-standardised,1.59
+Lesotho,2016,Female,age-standardised,1.75
+Namibia,2016,Female,age-standardised,1.83
+South Africa,2016,Female,age-standardised,2.02
+Swaziland,2016,Female,age-standardised,0.77
+Zimbabwe,2016,Female,age-standardised,0.43
+Vietnam,2016,Female,age-standardised,0.8
+Benin,2016,Female,age-standardised,1.14
+Burkina Faso,2016,Female,age-standardised,1.66
+Cameroon,2016,Female,age-standardised,2.02
+Cape Verde,2016,Female,age-standardised,1.56
+Chad,2016,Female,age-standardised,0.55
+Cote d'Ivoire,2016,Female,age-standardised,0.73
+The Gambia,2016,Female,age-standardised,0.67
+Ghana,2016,Female,age-standardised,1.63
+Guinea,2016,Female,age-standardised,0.14
+Guinea-Bissau,2016,Female,age-standardised,0.99
+Liberia,2016,Female,age-standardised,1.18
+Mali,2016,Female,age-standardised,0.55
+Mauritania,2016,Female,age-standardised,0.02
+Niger,2016,Female,age-standardised,0.17
+Nigeria,2016,Female,age-standardised,0.77
+Sao Tome and Principe,2016,Female,age-standardised,2.13
+Senegal,2016,Female,age-standardised,0.17
+Sierra Leone,2016,Female,age-standardised,2.09
+Togo,2016,Female,age-standardised,0.83
+Fiji,2016,Female,age-standardised,0.27
+Kiribati,2016,Female,age-standardised,0.18
+Marshall Islands,2016,Female,age-standardised,0.4
+Federated States of Micronesia,2016,Female,age-standardised,0.21
+Papua New Guinea,2016,Female,age-standardised,1.07
+Samoa,2016,Female,age-standardised,0.58
+Solomon Islands,2016,Female,age-standardised,0.32
+Tonga,2016,Female,age-standardised,0.32
+American Samoa,2016,Female,age-standardised,0.46
+Vanuatu,2016,Female,age-standardised,0.15
+Bermuda,2016,Female,age-standardised,2.2
+Armenia,2016,Female,age-standardised,1.42
+Azerbaijan,2016,Female,age-standardised,1.37
+Greenland,2016,Female,age-standardised,1.83
+Georgia,2016,Female,age-standardised,0.46
+Guam,2016,Female,age-standardised,0.38
+Kazakhstan,2016,Female,age-standardised,2.6
+Kyrgyzstan,2016,Female,age-standardised,1.04
+Northern Mariana Islands,2016,Female,age-standardised,0.44
+Mongolia,2016,Female,age-standardised,1.43
+Puerto Rico,2016,Female,age-standardised,1.18
+Tajikistan,2016,Female,age-standardised,0.46
+Turkmenistan,2016,Female,age-standardised,1.24
+Uzbekistan,2016,Female,age-standardised,1.39
+"Virgin Islands, U.S.",2016,Female,age-standardised,1.61
+Albania,2016,Female,age-standardised,1.09
+South Sudan,2016,Female,age-standardised,0.19
+Bosnia and Herzegovina,2016,Female,age-standardised,1.76
+Bulgaria,2016,Female,age-standardised,1.45
+Croatia,2016,Female,age-standardised,1.34
+Czech Republic,2016,Female,age-standardised,2.05
+Hungary,2016,Female,age-standardised,1.64
+Macedonia,2016,Female,age-standardised,0.66
+Montenegro,2016,Female,age-standardised,2.27
+Poland,2016,Female,age-standardised,1.73
+Romania,2016,Female,age-standardised,2
+Sudan,2016,Female,age-standardised,0.94
+Serbia,2016,Female,age-standardised,2.25
+Slovakia,2016,Female,age-standardised,1.5
+Slovenia,2016,Female,age-standardised,1.47
+Belarus,2016,Female,age-standardised,2.98
+Estonia,2016,Female,age-standardised,2.12
+Latvia,2016,Female,age-standardised,1.75
+China,2016,Female,age-standardised,0.2
+Lithuania,2016,Female,age-standardised,2.26
+Moldova,2016,Female,age-standardised,1.75
+Russia,2016,Female,age-standardised,1.77
+Ukraine,2016,Female,age-standardised,3.84
+Brunei,2016,Female,age-standardised,0.06
+Japan,2016,Female,age-standardised,1.81
+South Korea,2016,Female,age-standardised,1.95
+Singapore,2016,Female,age-standardised,0.52
+North Korea,2016,Female,age-standardised,0.24
+Australia,2016,Female,age-standardised,1.91
+New Zealand,2016,Female,age-standardised,1.58
+Andorra,2016,Female,age-standardised,2.79
+Austria,2016,Female,age-standardised,2.24
+Belgium,2016,Female,age-standardised,1.97
+Cyprus,2016,Female,age-standardised,0.93
+Denmark,2016,Female,age-standardised,2.62
+Finland,2016,Female,age-standardised,2.08
+Taiwan,2016,Female,age-standardised,0.38
+France,2016,Female,age-standardised,2.18
+Germany,2016,Female,age-standardised,2.26
+Greece,2016,Female,age-standardised,1.8
+Iceland,2016,Female,age-standardised,1.75
+Ireland,2016,Female,age-standardised,2.93
+Israel,2016,Female,age-standardised,0.66
+Italy,2016,Female,age-standardised,1.73
+Luxembourg,2016,Female,age-standardised,2.89
+Malta,2016,Female,age-standardised,1.05
+Netherlands,2016,Female,age-standardised,1.58
+Norway,2016,Female,age-standardised,1.85
+Portugal,2016,Female,age-standardised,1.82
+Spain,2016,Female,age-standardised,2.28
+Sweden,2016,Female,age-standardised,2.69
+Switzerland,2016,Female,age-standardised,2.4
+United Kingdom,2016,Female,age-standardised,2.58
+Argentina,2016,Female,age-standardised,2.49
+Chile,2016,Female,age-standardised,2.49
+Uruguay,2016,Female,age-standardised,2.05
+Cambodia,2016,Male,age-standardised,4.55
+Canada,2016,Male,age-standardised,2.74
+United States,2016,Male,age-standardised,3.06
+Antigua and Barbuda,2016,Male,age-standardised,1.32
+The Bahamas,2016,Male,age-standardised,2.18
+Barbados,2016,Male,age-standardised,2.62
+Belize,2016,Male,age-standardised,3.33
+Cuba,2016,Male,age-standardised,2.26
+Indonesia,2016,Male,age-standardised,0.08
+Dominica,2016,Male,age-standardised,2.86
+Dominican Republic,2016,Male,age-standardised,2.19
+Grenada,2016,Male,age-standardised,2.65
+Guyana,2016,Male,age-standardised,3.16
+Haiti,2016,Male,age-standardised,2.47
+Jamaica,2016,Male,age-standardised,2.39
+Saint Lucia,2016,Male,age-standardised,2.79
+Saint Vincent and the Grenadines,2016,Male,age-standardised,2.18
+Suriname,2016,Male,age-standardised,3.1
+Trinidad and Tobago,2016,Male,age-standardised,1.66
+Laos,2016,Male,age-standardised,1.84
+Bolivia,2016,Male,age-standardised,1.61
+Ecuador,2016,Male,age-standardised,3.98
+Peru,2016,Male,age-standardised,2.97
+Colombia,2016,Male,age-standardised,3.09
+Costa Rica,2016,Male,age-standardised,2.52
+El Salvador,2016,Male,age-standardised,2.41
+Guatemala,2016,Male,age-standardised,1.86
+Honduras,2016,Male,age-standardised,2.25
+Malaysia,2016,Male,age-standardised,1.3
+Mexico,2016,Male,age-standardised,3.56
+Nicaragua,2016,Male,age-standardised,2.32
+Panama,2016,Male,age-standardised,2.97
+Venezuela,2016,Male,age-standardised,3.51
+Brazil,2016,Male,age-standardised,2.79
+Paraguay,2016,Male,age-standardised,3.52
+Algeria,2016,Male,age-standardised,0.3
+Maldives,2016,Male,age-standardised,0.56
+Bahrain,2016,Male,age-standardised,0.57
+Egypt,2016,Male,age-standardised,0.2
+Iran,2016,Male,age-standardised,0
+Iraq,2016,Male,age-standardised,0.32
+Jordan,2016,Male,age-standardised,0.19
+Kuwait,2016,Male,age-standardised,0.01
+Lebanon,2016,Male,age-standardised,1.13
+Libya,2016,Male,age-standardised,0.02
+Morocco,2016,Male,age-standardised,0.52
+Palestine,2016,Male,age-standardised,0.06
+Myanmar,2016,Male,age-standardised,1.07
+Oman,2016,Male,age-standardised,0.27
+Qatar,2016,Male,age-standardised,0.68
+Saudi Arabia,2016,Male,age-standardised,0.05
+Syria,2016,Male,age-standardised,0.36
+Tunisia,2016,Male,age-standardised,0.5
+Turkey,2016,Male,age-standardised,0.61
+United Arab Emirates,2016,Male,age-standardised,1.37
+Yemen,2016,Male,age-standardised,0.07
+Philippines,2016,Male,age-standardised,2.05
+Afghanistan,2016,Male,age-standardised,0.11
+Bangladesh,2016,Male,age-standardised,0.03
+Bhutan,2016,Male,age-standardised,1.01
+India,2016,Male,age-standardised,1.53
+Nepal,2016,Male,age-standardised,0.83
+Pakistan,2016,Male,age-standardised,0
+Angola,2016,Male,age-standardised,1.67
+Central African Republic,2016,Male,age-standardised,1.7
+Sri Lanka,2016,Male,age-standardised,1.86
+Congo,2016,Male,age-standardised,1.94
+Democratic Republic of the Congo,2016,Male,age-standardised,1.19
+Equatorial Guinea,2016,Male,age-standardised,2.82
+Gabon,2016,Male,age-standardised,2.21
+Burundi,2016,Male,age-standardised,4.39
+Comoros,2016,Male,age-standardised,0.03
+Djibouti,2016,Male,age-standardised,0.39
+Eritrea,2016,Male,age-standardised,0.71
+Ethiopia,2016,Male,age-standardised,1.19
+Thailand,2016,Male,age-standardised,2.53
+Kenya,2016,Male,age-standardised,1.38
+Madagascar,2016,Male,age-standardised,0.9
+Malawi,2016,Male,age-standardised,1.5
+Mauritius,2016,Male,age-standardised,2.04
+Mozambique,2016,Male,age-standardised,1.03
+Rwanda,2016,Male,age-standardised,2.74
+Seychelles,2016,Male,age-standardised,1.93
+Somalia,2016,Male,age-standardised,0.16
+Tanzania,2016,Male,age-standardised,2.45
+Timor-Leste,2016,Male,age-standardised,0.16
+Uganda,2016,Male,age-standardised,2.11
+Zambia,2016,Male,age-standardised,1.87
+Botswana,2016,Male,age-standardised,3.41
+Lesotho,2016,Male,age-standardised,4.78
+Namibia,2016,Male,age-standardised,4.04
+South Africa,2016,Male,age-standardised,2.66
+Swaziland,2016,Male,age-standardised,2
+Zimbabwe,2016,Male,age-standardised,2.15
+Vietnam,2016,Male,age-standardised,5.09
+Benin,2016,Male,age-standardised,0.41
+Burkina Faso,2016,Male,age-standardised,2.2
+Cameroon,2016,Male,age-standardised,2.49
+Cape Verde,2016,Male,age-standardised,1.93
+Chad,2016,Male,age-standardised,1.29
+Cote d'Ivoire,2016,Male,age-standardised,1.85
+The Gambia,2016,Male,age-standardised,0.84
+Ghana,2016,Male,age-standardised,3.72
+Guinea,2016,Male,age-standardised,0.17
+Guinea-Bissau,2016,Male,age-standardised,1.25
+Liberia,2016,Male,age-standardised,1.71
+Mali,2016,Male,age-standardised,0.3
+Mauritania,2016,Male,age-standardised,0.06
+Niger,2016,Male,age-standardised,0.21
+Nigeria,2016,Male,age-standardised,3.23
+Sao Tome and Principe,2016,Male,age-standardised,2.65
+Senegal,2016,Male,age-standardised,0.11
+Sierra Leone,2016,Male,age-standardised,2.65
+Togo,2016,Male,age-standardised,1.03
+Fiji,2016,Male,age-standardised,1.84
+Kiribati,2016,Male,age-standardised,0.96
+Marshall Islands,2016,Male,age-standardised,0.91
+Federated States of Micronesia,2016,Male,age-standardised,0.69
+Papua New Guinea,2016,Male,age-standardised,2.36
+Samoa,2016,Male,age-standardised,1.33
+Solomon Islands,2016,Male,age-standardised,0.68
+Tonga,2016,Male,age-standardised,0.71
+American Samoa,2016,Male,age-standardised,1.05
+Vanuatu,2016,Male,age-standardised,0.43
+Bermuda,2016,Male,age-standardised,5.17
+Armenia,2016,Male,age-standardised,1.76
+Azerbaijan,2016,Male,age-standardised,2.85
+Greenland,2016,Male,age-standardised,2.12
+Georgia,2016,Male,age-standardised,3.57
+Guam,2016,Male,age-standardised,0.98
+Kazakhstan,2016,Male,age-standardised,3.32
+Kyrgyzstan,2016,Male,age-standardised,2.95
+Northern Mariana Islands,2016,Male,age-standardised,0.97
+Mongolia,2016,Male,age-standardised,2.23
+Puerto Rico,2016,Male,age-standardised,3.39
+Tajikistan,2016,Male,age-standardised,0.76
+Turkmenistan,2016,Male,age-standardised,2.05
+Uzbekistan,2016,Male,age-standardised,2.28
+"Virgin Islands, U.S.",2016,Male,age-standardised,2.95
+Albania,2016,Male,age-standardised,2.52
+South Sudan,2016,Male,age-standardised,0.24
+Bosnia and Herzegovina,2016,Male,age-standardised,5.14
+Bulgaria,2016,Male,age-standardised,3.58
+Croatia,2016,Male,age-standardised,4.12
+Czech Republic,2016,Male,age-standardised,4.05
+Hungary,2016,Male,age-standardised,4.47
+Macedonia,2016,Male,age-standardised,1.09
+Montenegro,2016,Male,age-standardised,3.63
+Poland,2016,Male,age-standardised,3.4
+Romania,2016,Male,age-standardised,6.79
+Sudan,2016,Male,age-standardised,1.01
+Serbia,2016,Male,age-standardised,3.58
+Slovakia,2016,Male,age-standardised,4.27
+Slovenia,2016,Male,age-standardised,3.36
+Belarus,2016,Male,age-standardised,5.14
+Estonia,2016,Male,age-standardised,5.12
+Latvia,2016,Male,age-standardised,4.56
+China,2016,Male,age-standardised,2.7
+Lithuania,2016,Male,age-standardised,5.98
+Moldova,2016,Male,age-standardised,4.14
+Russia,2016,Male,age-standardised,4.4
+Ukraine,2016,Male,age-standardised,5.99
+Brunei,2016,Male,age-standardised,0.06
+Japan,2016,Male,age-standardised,1.55
+South Korea,2016,Male,age-standardised,1.85
+Singapore,2016,Male,age-standardised,0.59
+North Korea,2016,Male,age-standardised,1.47
+Australia,2016,Male,age-standardised,4.22
+New Zealand,2016,Male,age-standardised,4.27
+Andorra,2016,Male,age-standardised,3.54
+Austria,2016,Male,age-standardised,3.78
+Belgium,2016,Male,age-standardised,3.35
+Cyprus,2016,Male,age-standardised,3.46
+Denmark,2016,Male,age-standardised,3.84
+Finland,2016,Male,age-standardised,4.07
+Taiwan,2016,Male,age-standardised,2.4
+France,2016,Male,age-standardised,4.25
+Germany,2016,Male,age-standardised,3.1
+Greece,2016,Male,age-standardised,3.62
+Iceland,2016,Male,age-standardised,2.07
+Ireland,2016,Male,age-standardised,4.25
+Israel,2016,Male,age-standardised,0.87
+Italy,2016,Male,age-standardised,3.11
+Luxembourg,2016,Male,age-standardised,6.17
+Malta,2016,Male,age-standardised,1.97
+Netherlands,2016,Male,age-standardised,2.72
+Norway,2016,Male,age-standardised,2.17
+Portugal,2016,Male,age-standardised,5.86
+Spain,2016,Male,age-standardised,4.84
+Sweden,2016,Male,age-standardised,2.3
+Switzerland,2016,Male,age-standardised,2.35
+United Kingdom,2016,Male,age-standardised,2.56
+Argentina,2016,Male,age-standardised,2.56
+Chile,2016,Male,age-standardised,2.64
+Uruguay,2016,Male,age-standardised,2.13
